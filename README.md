@@ -2,7 +2,7 @@
 
 <h2>📚 Cybersecurity Projects:</h2>
 
-- <b>pfSense Homelab</b>
+- <b> [pfSense Homelab](https://github.com/CollinBeneturski/pfSense-Homelab)</b>
 
   
 <h2> Certifications</h2>
