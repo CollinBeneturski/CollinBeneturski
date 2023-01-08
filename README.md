@@ -1,8 +1,8 @@
-<h1>Hi, I'm Collin! 
+<h1>Welcome, I'm Collin!
 
 <h2>📚 Cybersecurity Projects:</h2>
 
-- <b>Splunk Home Lab</b>
+- <b>pfSense Homelab</b>
 
   
 <h2> Certifications</h2>
@@ -11,7 +11,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Building a pfSense SOC Homelab]()
+- [Malware Traffic Analysis with Wireshark]()
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -20,7 +20,7 @@
 
 
 [twitter]: https://twitter.com/CollinBene
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/channel/UCanWPJ2TCMEwGxqsNtnB1mg
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
