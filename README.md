@@ -3,7 +3,7 @@
 <h2>📚 Cybersecurity Projects:</h2>
 
 - <b> [pfSense Homelab](https://github.com/CollinBeneturski/pfSense-Homelab)</b>
-- <b> [Malware Analysis Homelab]
+- <b> [Malware Analysis Homelab](https://github.com/CollinBeneturski/Malware-Analysis-Homelab)</b>
 
   
 <h2> Certifications</h2>
