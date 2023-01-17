@@ -4,7 +4,7 @@
 
 - <b> [pfSense Homelab](https://github.com/CollinBeneturski/pfSense-Homelab)</b>
 - <b> [Malware Analysis Homelab](https://github.com/CollinBeneturski/Malware-Analysis-Homelab)</b>
-
+- <b> [Crowdsec in Linode](https://github.com/CollinBeneturski/Crowdsec-in-Linode)</b>
   
 <h2> Certifications</h2>
 
